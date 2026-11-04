@@ -1,6 +1,6 @@
 Hi! I'm Yubell 👨‍💻
 
-I am a systems engineering student and hardware enthusiast from Argentina. My main focus is "offline-first" software development, creating tools that prioritize local data control and performance without constantly relying on the cloud.
+I am a systems engineering student and hardware enthusiast from Argentina. My main focus is software development, creating tools that prioritize local data control and performance without constantly relying on the cloud.
 
 What I'm working on right now:
 
